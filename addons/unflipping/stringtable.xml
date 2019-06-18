@@ -80,6 +80,10 @@
         <Russian>Требуется набор инструментов для переворота транспорта</Russian>
         <Spanish>Un kit de herramientas es requerido para voltear vehículos</Spanish>
     </Key>
+    <Key ID="STR_vet_unflipping_require_serviceVehicle">
+        <Original>Require repair vehicle to unflip vehicle</Original>
+        <Polish>Wymagaj pojazdu naprawczego do odwracania pojazdów</Polish>
+    </Key>
 
     <!-- Actions -->
     <Key ID="STR_vet_unflipping_act">
